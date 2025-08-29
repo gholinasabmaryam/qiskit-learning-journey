@@ -95,7 +95,7 @@ pip install qiskit-textbook
 
 ---
 
-## Course Reference
+## Reference
 
 * **Course:** *Beginner’s Guide to Practical Quantum Computing with IBM Qiskit* (Coursera)
 * **Provider:** Packt Publishing & IBM Quantum
