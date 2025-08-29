@@ -105,6 +105,6 @@ pip install qiskit-textbook
 ## Acknowledgments
 
 * **IBM Qiskit team** – the open-source framework
-* **NumPy & Matplotlib** – math and visualization tools
+* **NumPy & Matplotlib** – math & visualization tools
   
 ---
