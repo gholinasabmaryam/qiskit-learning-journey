@@ -1,7 +1,7 @@
 # qiskit-learning-journey
 
 This repository documents my hands-on practice with **quantum computing fundamentals** using **IBM Qiskit**, completed as part of the Coursera + Packt course *“Practical Quantum Computing with IBM Qiskit for Beginners.”*
-It includes my **code implementations, experiments, and visualizations** of essential quantum gates, circuits, and algorithms.
+It includes my code implementations, experiments, and visualizations of essential quantum gates, circuits, and algorithms.
 
 ---
 
@@ -11,7 +11,7 @@ It includes my **code implementations, experiments, and visualizations** of esse
 * Learn how to represent states with **statevectors and Bloch spheres**
 * Explore key **quantum operations** through code
 * Create a personal reference that I (and others) can reuse and build upon
-* Part of my learning journey to deepen my knowledge of quantum technologies and prepare to contribute to **research and innovation**
+* Part of my learning journey to deepen my knowledge of quantum technologies and prepare to contribute to research and innovation
 
 ---
 
